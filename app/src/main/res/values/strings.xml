@@ -4,4 +4,5 @@
     <string name="disable_bluetooth">TURN OFF BLUETOOTH</string>
     <string name="enable_discovery">ENABLE DISCOVERY</string>
     <string name="disable_discovery">DISABLE DISCOVERY</string>
+    <string name="making_device_discoverable_for_300_seconds">Making device discoverable for 300 seconds…</string>
 </resources>
