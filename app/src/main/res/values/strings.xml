@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ResumeBlu</string>
+    <string name="enable_bluetooth">TURN ON BLUETOOTH</string>
+    <string name="disable_bluetooth">TURN OFF BLUETOOTH</string>
+    <string name="enable_discovery">ENABLE DISCOVERY</string>
+    <string name="disable_discovery">DISABLE DISCOVERY</string>
+</resources>
